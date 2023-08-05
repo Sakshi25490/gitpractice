@@ -1,3 +1,3 @@
-### Wel come to git and github repositorygitgit
+### Wel come to git and github repository
 ## Sakshi Hiremath
 ## Github
