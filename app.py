@@ -1,4 +1,5 @@
-def addition(a,b):
-    return a+b
-def multification(a,b)
+def addition(a,b,c):
+    print(a+b+c)
+    return a+b+c
+def multification(a,b):
     return a*b
